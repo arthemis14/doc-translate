@@ -1,2 +1,2 @@
 # doc-translate
-pg12translate
+translate
